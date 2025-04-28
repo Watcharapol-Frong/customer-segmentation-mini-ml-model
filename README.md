@@ -72,6 +72,9 @@ Interactive dashboard created to explore customer segments and behaviors.
 
 # 👨‍💻 Contact
 Frong Watcharapol
+
 📧 Email: frongbook@hotmail.com
-🌐 Website: www.frongwatcharapol.com
+
+🌐 Website: [frongwatcharapol.com](www.......com)
+
 🔗 LinkedIn: Watcharapol Charoensuk
