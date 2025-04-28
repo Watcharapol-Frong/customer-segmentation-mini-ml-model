@@ -42,3 +42,34 @@ Although Random Forest achieved the highest accuracy,
 Decision Tree was selected for its high interpretability 
 and practical application for business decision-making.
 
+# 📈 Dashboard
+Interactive dashboard created to explore customer segments and behaviors.
+
+🔗 View Dashboard (Looker Studio)
+
+# 🧠 Customer Segments
+- Loyal Customers: Frequent purchasers with moderate spending.
+- At Risk Customers: Previously active but now declining.
+- Best Customers: High spenders, highly active.
+- Super VIP Customers: Top-tier, ultra-loyal, and high-spending customers.
+
+# 📢 Campaign Recommendations
+- Loyal Customers: Loyalty rewards, exclusive promotions.
+- At Risk Customers: Re-engagement campaigns with special offers.
+- Best Customers: VIP treatment, early access programs.
+- Super VIP Customers: Personalized services, exclusive events.
+
+# 📂 Project Files
+File | Description
+Customer_Segmentation_Report_EN.pdf | Full project report (English)
+data/online_retail_clean.csv | Cleaned dataset
+data/rfm_dashboard.xlsx | RFM Segmentation Table
+dashboard/RFM_LookerStudio_Link.txt | Link to the interactive dashboard
+models/decision_tree_model.png | Visualization of Decision Tree Model
+notebooks/rfm_segmentation_decision_tree.R | RFM analysis and Decision Tree modeling code
+
+# 👨‍💻 Contact
+Frong Watcharapol
+📧 Email: frongbook@hotmail.com
+🌐 Website: www.frongwatcharapol.com
+🔗 LinkedIn: Watcharapol Charoensuk
