@@ -46,7 +46,7 @@ and practical application for business decision-making.
 # 📈 Dashboard
 Interactive dashboard created to explore customer segments and behaviors.
 
-🔗 View Dashboard (Looker Studio)
+🔗 View Dashboard ([Looker Studio](https://lookerstudio.google.com/reporting/e3f177c7-548c-49c8-97cc-18c34a787ad9))
 
 # 🧠 Customer Segments
 - Loyal Customers: Frequent purchasers with moderate spending.
