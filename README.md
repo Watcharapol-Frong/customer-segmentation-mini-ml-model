@@ -60,6 +60,9 @@ Interactive dashboard created to explore customer segments and behaviors.
 - Best Customers: VIP treatment, early access programs.
 - Super VIP Customers: Personalized services, exclusive events.
 
+# Report
+View [Customer Segmentation & Mini ML Model](https://drive.google.com/file/d/1ZAUA77-U5GTPFUsxyzqGfvQviNHW_tk_/view?usp=sharing)
+
 # 📂 Project Files
 | File | Description |
 |:--------|:--------|
