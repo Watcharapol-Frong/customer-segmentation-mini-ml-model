@@ -64,7 +64,7 @@ Interactive dashboard created to explore customer segments and behaviors.
 | File | Description |
 |:--------|:--------|
 | `Customer_Segmentation_Report_EN.pdf` | Full project report (English) |
-| `data/data.txt` | Cleaned dataset |
+| `data/data.txt` | Cleaned dataset link |
 | `data/rfm_dashboard.xlsx` | RFM Segmentation Table |
 | `dashboard/RFM_LookerStudio_Link.txt` | Link to the interactive dashboard |
 | `models/decision_tree_model.png` | Visualization of Decision Tree Model |
