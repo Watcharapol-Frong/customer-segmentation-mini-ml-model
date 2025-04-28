@@ -77,4 +77,4 @@ Frong Watcharapol
 
 🌐 Website: [frongwatcharapol.com](www.......com)
 
-🔗 LinkedIn: Watcharapol Charoensuk
+🔗 LinkedIn: [Watcharapol Charoensuk](www.linkedin.com/in/watcharapol-charoensuk-336b4a342)
