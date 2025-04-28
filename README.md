@@ -33,10 +33,11 @@ By understanding customer behaviors, businesses can design targeted marketing st
 
 # 🤖 Machine Learning Models
 
-Model | Accuracy | Key Characteristics
-K-Nearest Neighbors | 95.4% | Simple, slow with large datasets
-Decision Tree | 98.6% | Easy to interpret, risk of overfitting
-Random Forest | 99.6% | High accuracy, less interpretable
+| Model | Accuracy | Key Characteristics |
+|:--------|:--------|:--------|
+| K-Nearest Neighbors | 95.4% | Simple, slow with large datasets |
+| Decision Tree | 98.6% | Easy to interpret, risk of overfitting |
+| Random Forest | 99.6% | High accuracy, less interpretable |
 
 Although Random Forest achieved the highest accuracy, 
 Decision Tree was selected for its high interpretability 
@@ -60,13 +61,14 @@ Interactive dashboard created to explore customer segments and behaviors.
 - Super VIP Customers: Personalized services, exclusive events.
 
 # 📂 Project Files
-File | Description
-Customer_Segmentation_Report_EN.pdf | Full project report (English)
-data/online_retail_clean.csv | Cleaned dataset
-data/rfm_dashboard.xlsx | RFM Segmentation Table
-dashboard/RFM_LookerStudio_Link.txt | Link to the interactive dashboard
-models/decision_tree_model.png | Visualization of Decision Tree Model
-notebooks/rfm_segmentation_decision_tree.R | RFM analysis and Decision Tree modeling code
+| File | Description |
+|:--------|:--------|
+| Customer_Segmentation_Report_EN.pdf | Full project report (English) |
+| data/online_retail_clean.csv | Cleaned dataset |
+| data/rfm_dashboard.xlsx | RFM Segmentation Table |
+| dashboard/RFM_LookerStudio_Link.txt | Link to the interactive dashboard |
+| models/decision_tree_model.png | Visualization of Decision Tree Model |
+| notebooks/rfm_segmentation_decision_tree.R | RFM analysis and Decision Tree modeling code |
 
 # 👨‍💻 Contact
 Frong Watcharapol
