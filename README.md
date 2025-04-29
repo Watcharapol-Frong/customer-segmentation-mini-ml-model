@@ -1,5 +1,6 @@
 # Customer Segmentation & Mini ML Model
 RFM Analysis and Decision Tree Modeling for Customer Segmentation.
+Blog: [Customer Segmentation ML Model](https://frongwatcharapol.com/2025/04/29/customer-segmentation-ml-model/)
 
 # 📖 Project Overview
 This project focuses on segmenting customers based on RFM analysis (Recency, Frequency, Monetary) and developing a simple Decision Tree Machine Learning model to predict customer segments.
