@@ -61,7 +61,7 @@ Interactive dashboard created to explore customer segments and behaviors.
 - Super VIP Customers: Personalized services, exclusive events.
 
 # Report
-View [Customer Segmentation & Mini ML Model](https://drive.google.com/file/d/1ZAUA77-U5GTPFUsxyzqGfvQviNHW_tk_/view?usp=sharing)
+View [Customer Segmentation & Mini ML Model](https://drive.google.com/file/d/1suNGfIxiOzB2C_SS0YbmFMCt8eVIcFmS/view?usp=sharing)
 
 # 📂 Project Files
 | File | Description |
